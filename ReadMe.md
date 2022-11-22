@@ -1,3 +1,4 @@
+![Duplicate File Cleaner ++](Icon.png)
 # Duplicate File Cleaner ++
 
 Detects and Recovers disk space used by duplicate files of any type, anywhere. 
