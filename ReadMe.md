@@ -30,3 +30,5 @@ https://www.microsoft.com/store/apps/9P84PVC1JL0L
 
 - [x] Release 1.0 - Released November 2022
 - [ ] Release 1.1 - 
+
+Want to see a feature added ? - pop over to Discussions and let us know.
