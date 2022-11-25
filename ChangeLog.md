@@ -8,5 +8,6 @@
 - [x] Processing: Modified the duplicate comparer due to a potential to miss some duplicates in unusual circumstances
 - [x] Processing: Reduced parallel thread count to reduce impact on disk drives
 - [x] Results: Updated ranking engine rules 
+- [x] Results: Added "Loading" and "Nothing to see here" messages 
 
 # Version 1.0	November 2022
