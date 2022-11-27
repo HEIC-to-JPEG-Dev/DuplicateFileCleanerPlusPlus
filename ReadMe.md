@@ -28,7 +28,8 @@ https://www.microsoft.com/store/apps/9P84PVC1JL0L
 
 # Progress
 
-- [x] Release 1.0 - Released November 2022
-- [ ] Release 1.1 - 
+- [x] Release 1.0 - November 2022
+- [x] Release 1.1 - December 2022
+- [ ] Release 1.2 - 
 
 Want to see a feature added ? - pop over to Discussions and let us know.
