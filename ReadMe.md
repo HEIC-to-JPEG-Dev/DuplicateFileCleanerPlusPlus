@@ -26,10 +26,8 @@ Native 64-bit for Intel, AMD, and ARM computers.
 
 https://www.microsoft.com/store/apps/9P84PVC1JL0L
 
-# Progress
 
-- [x] Release 1.0 - November 2022
-- [x] Release 1.1 - December 2022
-- [ ] Release 1.2 - 
+# Screen Shots
 
-Want to see a feature added ? - pop over to Discussions and let us know.
+![ScreenShot](ScreenShots/2022-11-22 12_32_01-WinUI Desktop.png)
+
