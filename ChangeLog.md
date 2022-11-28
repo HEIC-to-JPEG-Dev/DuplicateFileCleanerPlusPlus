@@ -1,3 +1,10 @@
+# Version 1.2	In Development
+- [x] Window resizing updated to prevent UI overlap.
+- [ ] Delete Empty Folders during duplicate deletion.
+- [ ] Notification when analyzing is complete
+- [ ] UI reminder of initial folder selection
+- [ ] Settings Window
+
 # Version 1.1	December 2022
 - [x] User Guide (Wiki) created 
 - [x] Ellipsis added to UI for links to User Guide, Issues, and Rating the app
