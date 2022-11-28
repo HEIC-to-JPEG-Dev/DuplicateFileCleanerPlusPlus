@@ -29,5 +29,9 @@ https://www.microsoft.com/store/apps/9P84PVC1JL0L
 
 # Screen Shots
 
-![ScreenShot](/ScreenShots/2022-11-22 12_32_01-WinUI Desktop.png)
+![2022-11-22 12_32_01-WinUI Desktop](https://user-images.githubusercontent.com/32410442/204256074-5c244554-6c2e-43c0-a1dc-8f7fef5c3440.png)
+
+![2022-11-22 12_33_03-WinUI Desktop](https://user-images.githubusercontent.com/32410442/204256101-d2344531-cce8-4e58-add9-63a8d4ca704b.png)
+
+![2022-11-22 12_49_20-WinUI Desktop](https://user-images.githubusercontent.com/32410442/204256140-4105338f-ec72-42d9-93b3-89b2e8dabfbb.png)
 
