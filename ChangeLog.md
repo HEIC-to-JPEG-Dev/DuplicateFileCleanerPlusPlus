@@ -2,7 +2,7 @@
 - [x] Window resizing updated to prevent UI overlap.
 - [ ] Delete Empty Folders during duplicate deletion.
 - [x] Notification when analyzing is complete and windows is not in focus
-- [x] UI reminder of initial folder selection
+- [ ] UI reminder of initial folder selection
 - [x] Settings Window with basic options
 - [x] Processing is now Analyzing as this is more relevant to what is happening.
 - [x] App is now single instance 
