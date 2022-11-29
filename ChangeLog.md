@@ -3,7 +3,7 @@
 - [ ] Delete Empty Folders during duplicate deletion.
 - [ ] Notification when analyzing is complete
 - [ ] UI reminder of initial folder selection
-- [ ] Settings Window
+- [x] Settings Window with basic options
 - [x] Processing is now Analyzing as this is more relevant to what is happening.
 
 # Version 1.1	December 2022
