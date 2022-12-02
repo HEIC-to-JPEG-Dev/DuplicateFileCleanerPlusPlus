@@ -18,14 +18,13 @@ Features..
   - Grouped and Sorted so you can focus on where the most disk space is being taken.
 - Detects files that have been renamed, had their file type changed, or copied across folders or drives. 
 - Intelligent Auto-Select uses over 15 rules to determine which, of a group of identical files, is the original and which should be selected for deletion.
+- Deletes empty folders (tidy-up), created when duplicate files are removed.
 
 Native 64-bit for Intel, AMD, and ARM computers.
-
 
 # Get it Here
 
 https://www.microsoft.com/store/apps/9P84PVC1JL0L
-
 
 # Screen Shots
 
@@ -33,5 +32,10 @@ https://www.microsoft.com/store/apps/9P84PVC1JL0L
 
 ![2022-11-22 12_33_03-WinUI Desktop](https://user-images.githubusercontent.com/32410442/204256101-d2344531-cce8-4e58-add9-63a8d4ca704b.png)
 
-![2022-11-22 12_49_20-WinUI Desktop](https://user-images.githubusercontent.com/32410442/204256140-4105338f-ec72-42d9-93b3-89b2e8dabfbb.png)
+![2022-12-02 09_43_50-WinUI Desktop](https://user-images.githubusercontent.com/32410442/205268654-62290153-7c07-4e32-92ad-d77cfc99afc0.png)
+
+![2022-12-02 09_43_18-WinUI Desktop](https://user-images.githubusercontent.com/32410442/205268682-074eb289-6384-413b-b043-a263a44eb158.png)
+
+
+
 
