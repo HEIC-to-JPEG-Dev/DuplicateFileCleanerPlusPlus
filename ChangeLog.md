@@ -2,7 +2,7 @@
 - [x] Window sizing corrected a maximize bug.
 - [x] Options to return to results after deleting files
 - [ ] A passive Rate Me popup
-- [ ] Show the initial search type in the results (profile, selected folder, etc)
+- [x] Show the initial search type in the results (profile, selected folder, etc)
 - [ ] Auto-Select moved to main results, with options for unselect, reselect, and settings for default mode
 - [ ] 
 
