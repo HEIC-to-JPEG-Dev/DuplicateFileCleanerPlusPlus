@@ -3,9 +3,6 @@
 - [x] Options to return to results after deleting files
 - [ ] A passive Rate Me popup
 - [x] Show the initial search type in the results (profile, selected folder, etc)
-- [ ] Auto-Select moved to main results, with options for unselect, reselect, and settings for default mode
-- [ ] 
-
 
 # Version 1.2	December 2022
 - [x] Window resizing updated to prevent UI overlap.
