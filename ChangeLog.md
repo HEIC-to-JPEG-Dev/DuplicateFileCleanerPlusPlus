@@ -1,7 +1,7 @@
 # Version 1.3	December 2022
 - [x] Window sizing corrected a maximize bug.
 - [x] Options to return to results after deleting files
-- [ ] A passive Rate Me popup
+- [x] A passive Rate Me popup
 - [x] Show the initial search type in the results (profile, selected folder, etc)
 
 # Version 1.2	December 2022
