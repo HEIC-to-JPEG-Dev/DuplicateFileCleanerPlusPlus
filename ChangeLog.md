@@ -1,4 +1,4 @@
-# Version 2.0	January 2023
+# Version 1.3	December 2022
 - [x] Window sizing corrected a maximize bug.
 - [x] Options to return to results after deleting files
 - [ ] A passive Rate Me popup
