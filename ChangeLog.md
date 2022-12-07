@@ -3,7 +3,6 @@
 - [ ] Implement Teaching tip for Auto-Select
 - [ ] Rebuilt property event system for performance when bulk updating files
 - [ ] Add Auto-select to Settings
-- [ ] Add Reset Teaching tips to settings
 
 # Version 1.3	December 2022
 - [x] Window sizing corrected a maximize bug.
