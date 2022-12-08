@@ -3,6 +3,8 @@
 - [ ] Implement Teaching tip for Auto-Select
 - [ ] Rebuilt property event system for performance when bulk updating files
 - [ ] Add Auto-select to Settings
+- [ ] Group headers understand singular and plurar spelling
+- [ ] Group headers show the duplicates size
 
 # Version 1.3	December 2022
 - [x] Window sizing corrected a maximize bug.
