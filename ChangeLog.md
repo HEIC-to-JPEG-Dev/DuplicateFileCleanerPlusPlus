@@ -1,10 +1,10 @@
-# Version 1.4	Not Yet Released
-- [ ] Moved duplicate selection to results view to allow dynamic Auto-Select and Un-Select
-- [ ] Implement Teaching tip for Auto-Select
-- [ ] Rebuilt property event system for performance when bulk updating files
-- [ ] Add Auto-select to Settings
-- [ ] Group headers understand singular and plurar spelling
-- [ ] Group headers show the duplicates size
+# Version 1.4	December 2022
+- [x] Moved duplicate selection to results view to allow dynamic Auto-Select and Un-Select
+- [x] Implement Teaching tip for Auto-Select
+- [x] Rebuilt property event system for performance when bulk updating files
+- [x] Add Auto-select to Settings
+- [x] Group headers understand singular and plural spelling
+- [x] Group headers show the duplicates size
 
 # Version 1.3	December 2022
 - [x] Window sizing corrected a maximize bug.
