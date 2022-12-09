@@ -28,13 +28,19 @@ https://www.microsoft.com/store/apps/9P84PVC1JL0L
 
 # Screen Shots
 
-![2022-11-22 12_32_01-WinUI Desktop](https://user-images.githubusercontent.com/32410442/204256074-5c244554-6c2e-43c0-a1dc-8f7fef5c3440.png)
+![2022-12-06 12_41_38-Duplicate File Cleaner ++](https://user-images.githubusercontent.com/32410442/206705447-a4e6f41e-0674-45cc-95d8-88aa212f9456.png)
 
-![2022-11-22 12_33_03-WinUI Desktop](https://user-images.githubusercontent.com/32410442/204256101-d2344531-cce8-4e58-add9-63a8d4ca704b.png)
+![2022-12-09 11_55_10-Duplicate File Cleaner ++](https://user-images.githubusercontent.com/32410442/206705490-10b4259b-1267-45a0-bda1-f63b62996c47.png)
 
-![2022-12-02 09_43_50-WinUI Desktop](https://user-images.githubusercontent.com/32410442/205268654-62290153-7c07-4e32-92ad-d77cfc99afc0.png)
+![2022-12-06 12_42_27-Duplicate File Cleaner ++](https://user-images.githubusercontent.com/32410442/206705502-d328705f-3d9a-4c9d-af94-9f01132184e5.png)
 
-![2022-12-02 09_43_18-WinUI Desktop](https://user-images.githubusercontent.com/32410442/205268682-074eb289-6384-413b-b043-a263a44eb158.png)
+![2022-12-06 12_42_50-Duplicate File Cleaner ++](https://user-images.githubusercontent.com/32410442/206705550-ebbc0505-81b5-44c1-b4bc-ee75b7b147fd.png)
+
+![2022-12-09 12_23_26-Duplicate File Cleaner ++](https://user-images.githubusercontent.com/32410442/206705568-e1d658ee-c697-4fdb-8ba3-ec7f9f370000.png)
+
+![2022-12-09 11_55_26-Duplicate File Cleaner ++](https://user-images.githubusercontent.com/32410442/206705580-3f524f81-80e0-49e5-bf75-ef64dd178168.png)
+
+
 
 
 
