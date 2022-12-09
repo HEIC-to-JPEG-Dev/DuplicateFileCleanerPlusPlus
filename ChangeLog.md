@@ -1,3 +1,6 @@
+# Version 1.5	In Development
+- [ ] Filters (Navigation down left hand side) show ratio of duplicates per filter.
+
 # Version 1.4	December 2022
 - [x] Moved duplicate selection to results view to allow dynamic Auto-Select and Un-Select
 - [x] Implement Teaching tip for Auto-Select
