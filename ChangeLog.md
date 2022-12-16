@@ -1,4 +1,14 @@
-# Version 1.6	In Development
+# Version 1.9	In Planning
+- [ ] Added "Export to csv file" to delete options
+
+# Version 1.8	In Planning
+- [ ] Added new "Move to folder" delete options
+
+# Version 1.7	In Planning
+- [ ] Result group headers modified to handle different sorting scenarios
+- [ ] Added "Copy Path", "Copy Filename", "Copy Folder", and "Show in File Explorer" to results view
+
+# Version 1.6	In Planning
 - [ ] Results can now be sorted by count, size, asc or dec
 
 # Version 1.5	December 2022
