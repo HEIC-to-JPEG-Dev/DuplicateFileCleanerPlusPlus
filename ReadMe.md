@@ -30,7 +30,7 @@ https://www.microsoft.com/store/apps/9P84PVC1JL0L
 
 ![2022-12-06 12_41_38-Duplicate File Cleaner ++](https://user-images.githubusercontent.com/32410442/206705447-a4e6f41e-0674-45cc-95d8-88aa212f9456.png)
 
-![2022-12-16 07_47_50-Duplicate File Cleaner ++](https://user-images.githubusercontent.com/32410442/208060823-5ee80fe9-83d8-4cff-b21b-d8f0ad9a4ddb.png)
+![2022-12-18 10_12_48-Duplicate File Cleaner ++](https://user-images.githubusercontent.com/32410442/208296013-5677acab-5322-40ef-9409-459323548350.png)
 
 ![2022-12-06 12_42_27-Duplicate File Cleaner ++](https://user-images.githubusercontent.com/32410442/206705502-d328705f-3d9a-4c9d-af94-9f01132184e5.png)
 
@@ -38,8 +38,7 @@ https://www.microsoft.com/store/apps/9P84PVC1JL0L
 
 ![2022-12-09 12_23_26-Duplicate File Cleaner ++](https://user-images.githubusercontent.com/32410442/206705568-e1d658ee-c697-4fdb-8ba3-ec7f9f370000.png)
 
-![2022-12-16 07_48_57-Duplicate File Cleaner ++](https://user-images.githubusercontent.com/32410442/208060856-63dd6275-1e1e-4e49-8e90-3fa6aa06341d.png)
-
+![2022-12-18 10_13_11-Duplicate File Cleaner ++](https://user-images.githubusercontent.com/32410442/208296017-9a56132e-4994-4052-9d2d-5e02149b7c98.png)
 
 
 
