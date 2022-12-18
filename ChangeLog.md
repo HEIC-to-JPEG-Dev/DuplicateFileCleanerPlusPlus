@@ -1,8 +1,10 @@
 # Version 1.9	In Planning
-- [ ] Added "Export to csv file" to delete options
+- [ ] Drive selection menu shows free space
+- [ ] Drive selection menu is dynamic and detects usb insertions
 
 # Version 1.8	In Planning
-- [ ] Added new "Move to folder" delete options
+- [ ] Bug Bash
+- [ ] Complete window styling changed
 
 # Version 1.7	In Planning
 - [ ] Result group headers modified to handle different sorting scenarios
