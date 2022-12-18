@@ -1,17 +1,17 @@
-# Version 1.9	In Planning
-- [ ] Drive selection menu shows free space and is color coded for low space warnings
-- [ ] Drive selection menu is dynamic and detects usb insertions
+# Version 1.9	December 2022
+- [x] Drive selection menu shows free space and is color coded for low space warnings
+- [x] Drive selection menu is dynamic and detects usb insertions
 
-# Version 1.8	In Planning
-- [ ] Bug Bash
-- [ ] Complete window styling changed
+# Version 1.8	December 2022
+- [x] Bug Bash
+- [x] Complete window styling changed
 
-# Version 1.7	In Planning
-- [ ] Result group headers modified to handle different sorting scenarios
-- [ ] Added "Copy Path", "Copy Filename", "Copy Folder", and "Show in File Explorer" to results view
+# Version 1.7	December 2022
+- [x] Result group headers modified to handle different sorting scenarios
+- [x] Added "Copy Path", "Copy Filename", "Copy Folder", and "Show in File Explorer" to results view
 
-# Version 1.6	In Planning
-- [ ] Results can now be sorted by count, size, asc or dec
+# Version 1.6	December 2022
+- [x] Results can now be sorted by count, size, asc or dec
 
 # Version 1.5	December 2022
 - [x] Filters (Navigation down left hand side) show ratio of duplicates per filter and duplicate size.
