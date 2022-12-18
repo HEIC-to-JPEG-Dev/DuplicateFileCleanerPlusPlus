@@ -1,5 +1,5 @@
 # Version 1.9	In Planning
-- [ ] Drive selection menu shows free space
+- [ ] Drive selection menu shows free space and is color coded for low space warnings
 - [ ] Drive selection menu is dynamic and detects usb insertions
 
 # Version 1.8	In Planning
