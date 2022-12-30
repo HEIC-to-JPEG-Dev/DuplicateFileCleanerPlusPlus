@@ -1,4 +1,5 @@
-![Icon 64](https://user-images.githubusercontent.com/32410442/204256334-b4d2deb9-4292-4d42-bc4b-a532cd116fcc.png)
+![Icon 64](https://user-images.githubusercontent.com/32410442/204256334-b4d2deb9-4292-4d42-bc4b-a532cd116fcc.png) ![Icon 64](https://user-images.githubusercontent.com/32410442/210071251-3074a3b9-f066-4c20-b02e-fed01d0ea7df.png)
+
 # Duplicate File Cleaner ++
 
 Detects and Recovers disk space used by duplicate files of any type, anywhere. 
