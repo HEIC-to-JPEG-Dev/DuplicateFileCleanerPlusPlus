@@ -26,20 +26,31 @@ Native 64-bit for Intel, AMD, and ARM computers.
 # Get it Here
 
 https://www.microsoft.com/store/apps/9P84PVC1JL0L
+https://www.microsoft.com/store/apps/9P8TBNHH1MS9
 
 # Screen Shots
 
-![2022-12-06 12_41_38-Duplicate File Cleaner ++](https://user-images.githubusercontent.com/32410442/206705447-a4e6f41e-0674-45cc-95d8-88aa212f9456.png)
+![2022-12-29 11_14_20-Duplicate File Cleaner ++](https://user-images.githubusercontent.com/32410442/210071584-57d28ac6-6ef7-4ff4-94f7-d068dc49495b.png)
 
-![2022-12-18 10_12_48-Duplicate File Cleaner ++](https://user-images.githubusercontent.com/32410442/208296013-5677acab-5322-40ef-9409-459323548350.png)
+![2022-12-29 11_14_34-Duplicate File Cleaner ++](https://user-images.githubusercontent.com/32410442/210071588-68b6bebd-dd29-42ae-9734-24a9965e3e88.png)
 
-![2022-12-06 12_42_27-Duplicate File Cleaner ++](https://user-images.githubusercontent.com/32410442/206705502-d328705f-3d9a-4c9d-af94-9f01132184e5.png)
+![2022-12-29 11_14_48-Duplicate File Cleaner ++](https://user-images.githubusercontent.com/32410442/210071606-bccde6fb-ce78-43ca-b439-26302686c3b5.png)
 
-![2022-12-06 12_42_50-Duplicate File Cleaner ++](https://user-images.githubusercontent.com/32410442/206705550-ebbc0505-81b5-44c1-b4bc-ee75b7b147fd.png)
+![2022-12-29 11_14_52-Duplicate File Cleaner ++](https://user-images.githubusercontent.com/32410442/210071613-79b8f2df-467a-4297-9c67-51b15d7008cc.png)
 
-![2022-12-09 12_23_26-Duplicate File Cleaner ++](https://user-images.githubusercontent.com/32410442/206705568-e1d658ee-c697-4fdb-8ba3-ec7f9f370000.png)
+![2022-12-29 11_15_29-Duplicate File Cleaner ++](https://user-images.githubusercontent.com/32410442/210071620-68c5c3e7-ac3c-404b-929c-4d471840fe16.png)
 
-![2022-12-18 10_13_11-Duplicate File Cleaner ++](https://user-images.githubusercontent.com/32410442/208296017-9a56132e-4994-4052-9d2d-5e02149b7c98.png)
+![2022-12-29 11_15_36-Duplicate File Cleaner ++](https://user-images.githubusercontent.com/32410442/210071627-e6a5bfc1-c543-474e-a7f9-3a8a8bd31c46.png)
+
+![2022-12-29 11_15_54-Duplicate File Cleaner ++](https://user-images.githubusercontent.com/32410442/210071630-4b22bd69-2c3f-48b0-bfeb-b3d578db2c49.png)
+
+![2022-12-29 11_16_12-Duplicate File Cleaner ++](https://user-images.githubusercontent.com/32410442/210071634-6c879a71-2edb-4dbe-9489-876aae72f27d.png)
+
+![2022-12-29 11_16_26-Duplicate File Cleaner ++](https://user-images.githubusercontent.com/32410442/210071640-77f4d464-0eeb-4ef7-aae4-52757853e78b.png)
+
+![2022-12-29 11_22_10-Duplicate File Cleaner ++](https://user-images.githubusercontent.com/32410442/210071647-17b230a0-d238-46d4-9434-deeab2634774.png)
+
+![2022-12-29 11_22_34-Duplicate File Cleaner ++](https://user-images.githubusercontent.com/32410442/210071654-ba81bac4-1172-4603-b9e4-58224526754d.png)
 
 
 
