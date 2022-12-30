@@ -1,3 +1,18 @@
+# Version 2.2	In development
+- [ ] File search filters (size, hidden, etc.)
+
+# Version 2.1	January 2023
+- [x] Disabled Windows 11 only features when running on Windows 10 (mica themeing)
+
+# Version 2.0	January 2023
+- [x] Introduced a free version with in app purchases (Duplicate File Finder ++)
+- [x] Added: Move or Copy duplicates to Folder
+- [x] Added: Rename duplicates with prefix, suffix, and extensions
+- [x] Added: Export duplicates to csv and script files
+- [x] Added: New theme settings
+- [x] Added: Exclude folders from scanning
+- [x] Added: Exclude file types from scanning
+
 # Version 1.9	December 2022
 - [x] Drive selection menu shows free space and is color coded for low space warnings
 - [x] Drive selection menu is dynamic and detects usb insertions
