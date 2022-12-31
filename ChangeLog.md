@@ -3,6 +3,7 @@
 
 # Version 2.1	January 2023
 - [x] Disabled Windows 11 only features when running on Windows 10 (mica themeing)
+- [x] Free version UI updates
 
 # Version 2.0	January 2023
 - [x] Introduced a free version with in app purchases (Duplicate File Finder ++)
