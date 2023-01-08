@@ -1,5 +1,9 @@
-# Version 2.2	In development
-- [ ] File search filters (size, hidden, etc.)
+# Version 2.3	In development
+- [ ] UI warning indicator if pre-search filters are in play
+- [ ] UI warning for hidden and system files
+
+# Version 2.2	January 2023
+- [x] File search filters (size, hidden, etc.)
 
 # Version 2.1	January 2023
 - [x] Disabled Windows 11 only features when running on Windows 10 (mica themeing)
